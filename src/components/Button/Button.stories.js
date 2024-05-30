@@ -1,5 +1,5 @@
 import { fn } from '@storybook/test';
-import { Button } from '../components/Button/Button';
+import { Button } from './Button';
 
 // More on how to set up stories at: https://storybook.js.org/docs/writing-stories#default-export
 export default {
@@ -25,6 +25,7 @@ export default {
 // More on writing stories with args: https://storybook.js.org/docs/writing-stories/args
 export const Primary = {
   args: {
+    name: 'storybook',
     primary: true,
     label: 'Button',
   },
@@ -32,12 +33,14 @@ export const Primary = {
 
 export const Secondary = {
   args: {
+    name: 'storybook',
     label: 'Button',
   },
 };
 
 export const Large = {
   args: {
+    name: 'storybook',
     size: 'large',
     label: 'Button',
   },
@@ -45,7 +48,17 @@ export const Large = {
 
 export const Small = {
   args: {
+    name: 'storybook',
     size: 'small',
     label: 'Button',
+  },
+};
+
+export const VhiDefault = {
+  args: {
+    name: 'vhi',
+    primary: true,
+    size: 'large',
+    label: 'Default',
   },
 };

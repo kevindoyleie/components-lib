@@ -1,4 +1,4 @@
-import { Header } from '../components/Header/Header';
+import { Header } from './Header';
 import { fn } from '@storybook/test';
 
 export default {

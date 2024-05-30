@@ -5,29 +5,17 @@
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
 B
 .storybook/main.js,c/c/ccc24fa53ed888a7471d8f2d4afae2e0ae89171d
-F
-src/stories/Button.jsx,a/d/ad30c03ee3a9e17fd05a910a71db5e3f1899bf40
-M
-src/stories/Button.stories.js,8/f/8fd33325498e8be2e0cdbaeae65aedcf3bb31ab7
 E
 .storybook/preview.js,6/0/60882ef9544224120d1d72534f44b973f3a57746
-F
-src/stories/button.css,8/0/802536010ac190f323bbcc513f417dc29496952c
 I
 src/stories/Configure.mdx,9/8/982f580a8b5bd266eca115b5641b406574105688
-I
-src/components/Button.jsx,c/d/cdcbe0056a02a37eddf7a00a0bf929c431b73e4e
 P
  src/components/button/Button.jsx,4/b/4bd927eee18b1361dbc2580594be322011dc507a
-K
-src/stories/Page.stories.js,2/c/2c47622fda91a4490523a09676f927956cebb5e2
 L
 src/components/page/Page.jsx,f/6/f643c43f4abc0cd7a22e5116a103b620ca3adc59
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-M
-src/stories/Header.stories.js,0/0/00fc97bab3225e655468684ead844eed541f7806
 P
  src/components/button/button.css,4/2/42984c5c649593660a95306ce2e68ffae01914f7
 L
@@ -44,12 +32,8 @@ N
 src/stories/assets/youtube.svg,9/4/942ed992531028921ef0d1249a87628064c47253
 P
  src/components/header/header.css,e/b/eb34f04faa66c967045a80642c55e3ae97272056
-w
-G.idea/sonarlint/issuestore/2/c/2c47622fda91a4490523a09676f927956cebb5e2,9/c/9c7d4623c287c6df66555a0931fd8bdf4511f4e4
 P
  src/components/header/Header.jsx,f/b/fb61ea60bd9a3589a8bd04d22589abf09b75c994
-Å
-Q.idea/sonarlint/securityhotspotstore/2/c/2c47622fda91a4490523a09676f927956cebb5e2,8/5/8575b3c6fbd69056f907a5530e9e7494012be9db
 P
  src/stories/assets/tutorials.svg,e/f/ef9333b088ef9306c69a8fb3574f6046ddd74cd0
 w
@@ -68,16 +52,10 @@ B
 -.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
 ^
 ..idea/inspectionProfiles/profiles_settings.xml,1/e/1e9075f5bf079c01ef2c910709e91a497d262080
-Å
-Q.idea/sonarlint/securityhotspotstore/8/0/802536010ac190f323bbcc513f417dc29496952c,1/3/13168435cdb628a215837c7f9d22831719a6529f
 M
 src/stories/assets/github.svg,6/0/60607d7bc930b2416a8d9c3bd6eeb7a9027ee505
 w
-G.idea/sonarlint/issuestore/8/0/802536010ac190f323bbcc513f417dc29496952c,c/1/c1dca85b30688528792eadaa10de5979aca1fec1
-w
 G.idea/sonarlint/issuestore/4/b/4bd927eee18b1361dbc2580594be322011dc507a,c/c/cc70bc20776c490d3716ed3494ec54b3765d7abf
-w
-G.idea/sonarlint/issuestore/8/f/8fd33325498e8be2e0cdbaeae65aedcf3bb31ab7,0/9/094db3bd77d6e839d1981f95bb02e14c7ebf05b3
 Å
 Q.idea/sonarlint/securityhotspotstore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a,9/a/9ab775a45cd57b8b48016a1df33230d8b5c74c21
 Å
@@ -87,18 +65,51 @@ A
 w
 G.idea/sonarlint/issuestore/6/0/60882ef9544224120d1d72534f44b973f3a57746,6/1/61e55a9c98108f2a834a25f9de993f9e663d8ef1
 w
-G.idea/sonarlint/issuestore/a/d/ad30c03ee3a9e17fd05a910a71db5e3f1899bf40,0/2/027e1dd9f179524f7c299f936ee29c100e0aa300
-w
 G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b/4/b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
 Å
 Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1/0/10a03f31c4dce92cb371e761ce9429428bb6c176
-Å
-Q.idea/sonarlint/securityhotspotstore/c/d/cdcbe0056a02a37eddf7a00a0bf929c431b73e4e,7/4/74c51e6a432e33edaeb01557c4789c47b9058718
-Å
-Q.idea/sonarlint/securityhotspotstore/a/d/ad30c03ee3a9e17fd05a910a71db5e3f1899bf40,c/2/c29692ed9d9cf566ebcb784d111e74b1f500f082
-w
-G.idea/sonarlint/issuestore/c/d/cdcbe0056a02a37eddf7a00a0bf929c431b73e4e,1/4/148a1e5c948b986d5b0ba844afb13f7949f9d16d
 w
 G.idea/sonarlint/issuestore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a,9/d/9d19eaab4327edc07435a682d68ef383811840e5
-Å
-Q.idea/sonarlint/securityhotspotstore/8/f/8fd33325498e8be2e0cdbaeae65aedcf3bb31ab7,1/2/1238870cd33fb9426b0d165c5dfd11b8c0561881
+P
+ src/components/Header/header.css,d/a/da8c1bed7635bcb80b5c8e683c564c5968f36000
+P
+ src/components/Header/Header.jsx,c/1/c190362ff4dd89e9c16838b502ca303aeecc3db4
+L
+src/components/Page/page.css,7/1/71f5e1b68c467a3d7a316af00f47894fd0882cec
+P
+ src/components/Button/button.css,3/d/3d8767b45f168af6461046357df3ec6b19d8d5e9
+P
+ src/components/Button/Button.jsx,d/5/d53b799cb0e476e9bb93560ee5de6f1449dd0677
+L
+src/components/Page/Page.jsx,a/9/a930750dc18d7373a778bdce989ab953f14d4d31
+<
+src/index.js,f/9/f900edc44cb929c2267a16100a32851f6d5b477d
+A
+src/setupTests.js,b/7/b7e8d8f421068b8d51c89805d2035e747be2ff17
+F
+src/reportWebVitals.js,1/c/1ce5e63ae1582ed0b425c46001299a07515efbf9
+:
+
+src/App.js,1/e/1e43fa63aecd2127be034b3fb9d4caa172275714
+?
+src/App.test.js,9/2/923703ced91ac38943d37930d9d27a7ebe8f01ad
+A
+public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
+L
+src/components/Tabs/Tabs.jsx,9/e/9ead1da37024e64cc320dc18a3ae0e5d7eb6e534
+L
+src/components/Tabs/tabs.css,a/6/a6e61444f904b85877bbb070bf4ba37c65719bab
+L
+src/components/Task/Task.jsx,9/3/93e73dbce5651f8d24d571f047b66f3a3623d2d7
+=
+src/index.css,c/5/c5d38a62d1faae90a2acaa34b79a7ef365c917e4
+W
+'src/components/Button/Button.stories.js,8/8/88e2f405e398bd8c0431772bf5727c3edb1c1147
+W
+'src/components/Header/Header.stories.js,a/f/af4e1a061dd8a55f9fd61b2ebd15919cfe4eb182
+S
+#src/components/Page/Page.stories.js,6/3/63d90ac1dce115e87c5afc479d9577ee0dc0db60
+S
+#src/components/Task/Task.stories.js,7/5/755d9122e5d9c5a59a18a59d3b0aa6e11ee58fc8
+L
+src/components/Text/Text.jsx,3/4/3469b784998ffe06d1c534a960e06d244382db62
